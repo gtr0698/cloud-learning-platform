@@ -1,3 +1,7 @@
+# Architecture Note: 
+During the Business Workflow analysis, the need for a generic User (or Organization Member) entity emerged. This concept will be revisited during the Identity & Access bounded context modeling.
+
+
 # Domain Model
 
 | Property | Value                   |
@@ -7,7 +11,7 @@
 | Version | 1.0                     |
 | Status | Draft                   |
 | Author | Guilherme Taborda       |
-| Last Update | 2026-07-02              |
+| Last Update | 2026-07-06              |
 
 ---
 
