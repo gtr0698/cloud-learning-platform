@@ -7,7 +7,7 @@
 | Version | 1.0                        |
 | Status | Draft                      |
 | Author | Guilherme Taborda da Rocha |
-| Last Update | 2026-06-30                 |
+| Last Update | 2026-07-06                 |
 
 ---
 
@@ -62,7 +62,7 @@ The platform should allow organizations to:
 
 - Create and manage their own workspace.
 - Manage departments and teams.
-- Register employees.
+- Manage organization members.
 - Create learning paths.
 - Create online courses.
 - Organize lessons and modules.
@@ -110,7 +110,7 @@ Although this project is intended for educational purposes, it should be designe
 - Organizations (Tenants)
 - Departments
 - Teams
-- Employees
+- Organization members
 - User Roles
 
 ---
